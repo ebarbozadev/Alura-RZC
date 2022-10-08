@@ -1,103 +1,68 @@
-# Guia de estilos
+<hr>
 
-Toda a estilização que será usada no projeto dentro do figma.
+<main>
+    <h1 align="center">Projeto Alura RZC</h1>
+    <p align="center" style="font-size: 1.25rem;">
+        <a href="#sobre">Sobre</a> •
+        <a href="#tabela-de-conteudo">Tabela de Conteúdo</a> •
+        <a href="#tecnologias">Tecnologias</a> •
+        <a href="#autor">Autor</a>
+    </p>
+</main>
 
-[Link do projeto no figma](https://www.figma.com/file/ibWktwVpnog76rMYOdVhks/Dispondo-elementos-com-flexbox-e-grid?node-id=54%3A2358)
+<hr>
 
-## Fonte
+<img src="Alura-RZC.gif" title="Gif mostrando o site">
 
-```html
-Open Sans:
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap">
-```
+<section id="sobre">
+    <h2 style="font-size: 1.25rem;">Sobre</h2>
+    <p style="text-align: justify;">Os estudos <b>deste repositório</b> foram feitos de acordo com o curso <a href="https://cursos.alura.com.br/course/css-dispondo-elementos-flexbox-grid">CSS: dispondo elementos com Flexbox e Grid</a> com <b>auxílio</b> do instrutoro <b>Matheus Alberto</b>.</p>
+    <p style="text-align: justify;">É um site de uma loja que contém músicas, vídeos, pinturas e roupas.</p>
+    <p style="text-align: justify;">Com isso, quero enfatizar que o <b>conteúdo este repositório foi um estudo</b>! Não o criei sozinho, mas todo o conhecimento fornecido vou absorvido.</p>
+    <p style="text-align: justify;">Para ver o site que viu no gif, clique <a href="https://alurarzc.vercel.app/">aqui</a></p>
+</section>
 
-## Cores
+<section id="tabela-de-conteudo">
+    <h2 style="font-size: 1.25rem;">Tabela de Conteúdo</h2>
+    <ul>
+        <li>O que é um flex-container;</li>
+        <li>As propriedades de posicionamento justify-content e align-items;</li>
+        <li>Como criar quebra de linha de um flex-container com a propriedade flex-wrap;</li>
+        <li>Alterar a orientação do flex container com a propriedade flex-direction;</li>
+        <li>Propriedades de posicionamento de um flex-item com justify-self e align-self;</li>
+        <li>Uso de flex para remanejar pseudo-elementos;</li>
+        <li>As limitações de trabalhar com flexbox;</li>
+        <li>O funcionamento básico do grid;</li>
+        <li>Propriedades para criar linhas e colunas: grid-template-rows e grid-template-columns;</li>
+        <li>Nova unidade de medida fr;</li>
+        <li>Mescla de linhas e colunas com as propriedades grid-columns: span n e grid-rows: span n;</li>
+        <li>As propriedades column-gap, row-gap e gap;</li>
+        <li>Como utilizar o valor auto para tamanho de colunas;</li>
+        <li>Planejar o uso de grid no desenvolvimento;</li>
+        <li>Como evoluir o layout para desktop com grid;</li>
+        <li>A função repeat();</li>
+        <li>Alterar a posição de elementos com as propriedades grid-row e grid-column;</li>
+        <li>As vantagens e utilização de grid areas;</li>
+    </ul>
+</section>
 
-corpo: `#1D232A`
+<section id="tecnologias">
+    <h2 style="font-size: 1.25rem;">Tecnologias</h2>
+    <ul>
+        <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">HTML</a>;</li>
+        <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS</a>;</li>
+        <li><a href="https://www.javascript.com/">JavaScript</a>.</li>
+    </ul>
+</section>
 
-cabeçalho: `#1D232A`
+<section id="certificado">
+    <h2 style="font-size: 1.25rem;">Certificado</h2>
+    <p style="text-align: justify;">Veja o certificado que obtive no curso! Ou veja online <a href="https://cursos.alura.com.br/certificate/ebarbozadev/css-dispondo-elementos-flexbox-grid">aqui</a>.</p>
+    <img src="Certificados/Certificado de Conclusão CSS dispondo elementos com Flexbox e Grid.jpg">
+</section>
 
-cabeçalho mobile: `#15191C`
-
-menu lateral: `#15191C`
-
-cartão: `#2C343A`
-
-fonte: `#FFFFFF`
-
-fonte alternativa: `#95999C`
-
-links: `#0480DC`
-
-botão: `#0480DC`
-
-sombras: `0px 4px 4px rgba(0, 0, 0, 0.16)`
-
-## Ícones
-
-Estão dentro do arquivo de fonte `icones.ttf`. Para usar, primeiro importe a fonte no projeto usando `@font-face` e depois utilize os códigos abaixo para exibir o ícone.
-
-```css
-@font-face {
-    font-family: 'icones';
-    src: url(../font/icones.ttf);
-}
-```
-
-> Cuidado com a localização do arquivo `icones.ttf`
-
-Camisas = `\e900`
-
-Carrinho = `\e901`
-
-Inicio = `\e902`
-
-Integrantes = `\e903`
-
-Menu = `\e904`
-
-Moeda = `\e905`
-
-Notificação = `\e906`
-
-Pico = `\e908`
-
-Picos = `\e909`
-
-Pinturas = `\e90a`
-
-Play = `\e90b`
-
-Relogio = `\e90c`
-
-Seta-baixo = `\e90d`
-
-Videos = `\e90e`
-
-Visualizacao = `\e90f`
-
-## Espaçamentos
-
-Espaço interno botão: `8px`
-
-Espaço entre elementos do botão: `8px`
-
-Espaço entre elementos: `16px/8px`
-
-Espaçamento interno do corpo: `16px`
-
-Espaçamento entre o título do cartão de recentes e seus itens: `24px`
-
-## Tamanhos
-
-Tamanho do dispositivo mobile: `360px`
-
-Tamanho do dispositivo desktop: `1440px`
-
-Largura máxima do conteúdo principal: `1120px`
-
-Largura máxima de um cartão desktop: `256px`
-
-Altura mínima de um cartão: `320px`
+<section id="autor">
+    <h2 style="font-size: 1.25rem;">Autor</h2>
+    <img src="foto.jpg" width="170">
+    <p style="text-align: justify;"><i>Emanuel Marcos (E.Barboza)<i></p>
+</section>
