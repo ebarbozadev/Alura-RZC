@@ -26,23 +26,23 @@
 <section id="tabela-de-conteudo">
     <h2 style="font-size: 1.25rem;">Tabela de Conteúdo</h2>
     <ul>
-        <li>O que é um flex-container;</li>
-        <li>As propriedades de posicionamento justify-content e align-items;</li>
-        <li>Como criar quebra de linha de um flex-container com a propriedade flex-wrap;</li>
-        <li>Alterar a orientação do flex container com a propriedade flex-direction;</li>
-        <li>Propriedades de posicionamento de um flex-item com justify-self e align-self;</li>
-        <li>Uso de flex para remanejar pseudo-elementos;</li>
+        <li>O que é um <code>flex-container</code>;</li>
+        <li>As propriedades de posicionamento <code>justify-content</code> e <code>align-items</code>;</li>
+        <li>Como criar quebra de linha de um <code>flex-container</code> com a propriedade <code>flex-wrap</code>;</li>
+        <li>Alterar a orientação do <code>flex</code> container com a propriedade <code>flex-direction</code>;</li>
+        <li>Propriedades de posicionamento de um <code>flex-item</code> com <code>justify-self</code> e <code>align-self</code>;</li>
+        <li>Uso de <code>flex</code> para remanejar pseudo-elementos;</li>
         <li>As limitações de trabalhar com flexbox;</li>
-        <li>O funcionamento básico do grid;</li>
-        <li>Propriedades para criar linhas e colunas: grid-template-rows e grid-template-columns;</li>
+        <li>O funcionamento básico do <code>grid</code>;</li>
+        <li>Propriedades para criar linhas e colunas: <code>grid-template-rows</code> e <code>grid-template-columns</code>;</li>
         <li>Nova unidade de medida fr;</li>
-        <li>Mescla de linhas e colunas com as propriedades grid-columns: span n e grid-rows: span n;</li>
-        <li>As propriedades column-gap, row-gap e gap;</li>
+        <li>Mescla de linhas e colunas com as propriedades <code>grid-columns</code>: span n e <code>grid-rows</code>: span n;</li>
+        <li>As propriedades <code>column-gap</code>, <code>row-gap</code> e <code>gap</code>;</li>
         <li>Como utilizar o valor auto para tamanho de colunas;</li>
-        <li>Planejar o uso de grid no desenvolvimento;</li>
-        <li>Como evoluir o layout para desktop com grid;</li>
-        <li>A função repeat();</li>
-        <li>Alterar a posição de elementos com as propriedades grid-row e grid-column;</li>
+        <li>Planejar o uso de <code>grid</code> no desenvolvimento;</li>
+        <li>Como evoluir o layout para desktop com <code>grid</code>;</li>
+        <li>A função <code>repeat()</code>;</li>
+        <li>Alterar a posição de elementos com as propriedades <code>grid-row</code> e <code>grid-column</code>;</li>
         <li>As vantagens e utilização de grid areas;</li>
     </ul>
 </section>
@@ -58,7 +58,7 @@
 
 <section id="certificado">
     <h2 style="font-size: 1.25rem;">Certificado</h2>
-    <p style="text-align: justify;">Veja o certificado que obtive no curso! Ou veja online <a href="https://cursos.alura.com.br/certificate/ebarbozadev/css-dispondo-elementos-flexbox-grid">aqui</a>.</p>
+    <p style="text-align: justify;">Veja o certificado que obtive no curso! Ou veja online <a href="https://cursos.alura.com.br/certificate/ebarbozadev/html-">aqui</a>.</p>
     <img src="Certificado de Conclusão CSS dispondo elementos com Flexbox e Grid.jpg">
 </section>
 
