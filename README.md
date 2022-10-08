@@ -58,7 +58,7 @@
 <section id="certificado">
     <h2 style="font-size: 1.25rem;">Certificado</h2>
     <p style="text-align: justify;">Veja o certificado que obtive no curso! Ou veja online <a href="https://cursos.alura.com.br/certificate/ebarbozadev/css-dispondo-elementos-flexbox-grid">aqui</a>.</p>
-    <img src="Certificados/Certificado de Conclusão CSS dispondo elementos com Flexbox e Grid.jpg">
+    <img src="Certificado de Conclusão CSS dispondo elementos com Flexbox e Grid.jpg">
 </section>
 
 <section id="autor">
