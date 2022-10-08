@@ -6,6 +6,7 @@
         <a href="#sobre">Sobre</a> •
         <a href="#tabela-de-conteudo">Tabela de Conteúdo</a> •
         <a href="#tecnologias">Tecnologias</a> •
+        <a href="#certificado">Certificado</a> •
         <a href="#autor">Autor</a>
     </p>
 </main>
