@@ -20,12 +20,12 @@
     <p style="text-align: justify;">Os estudos <b>deste repositório</b> foram feitos de acordo com o curso <a href="https://cursos.alura.com.br/course/css-dispondo-elementos-flexbox-grid">CSS: dispondo elementos com Flexbox e Grid</a> com <b>auxílio</b> do instrutor <b>Matheus Alberto</b>.</p>
     <p style="text-align: justify;">É um site de uma loja que contém músicas, vídeos, pinturas e roupas.</p>
     <p style="text-align: justify;">Com isso, quero enfatizar que o <b>conteúdo este repositório foi um estudo</b>! Não o criei sozinho, mas todo o conhecimento fornecido vou absorvido.</p>
-    <p style="text-align: justify;">Para ver o site que viu no gif, clique <a href="https://alurarzc.vercel.app/">aqui</a></p>
+    <p style="text-align: justify;">Para ver o site que viu no gif, clique <a href="https://alurarzc.vercel.app/">aqui</a>.</p>
 </section>
 
 <section id="tabela-de-conteudo">
     <h2 style="font-size: 1.25rem;">Tabela de Conteúdo</h2>
-    <ul>
+    <ul style="text-align="justify;"" align="justify">
         <li>O que é um <code>flex-container</code>;</li>
         <li>As propriedades de posicionamento <code>justify-content</code> e <code>align-items</code>;</li>
         <li>Como criar quebra de linha de um <code>flex-container</code> com a propriedade <code>flex-wrap</code>;</li>
@@ -43,7 +43,7 @@
         <li>Como evoluir o layout para desktop com <code>grid</code>;</li>
         <li>A função <code>repeat()</code>;</li>
         <li>Alterar a posição de elementos com as propriedades <code>grid-row</code> e <code>grid-column</code>;</li>
-        <li>As vantagens e utilização de grid areas;</li>
+        <li>As vantagens e utilização de grid areas.</li>
     </ul>
 </section>
 
