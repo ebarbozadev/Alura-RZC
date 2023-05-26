@@ -6,8 +6,7 @@
         <a href="#sobre">Sobre</a> •
         <a href="#tabela-de-conteudo">Tabela de Conteúdo</a> •
         <a href="#tecnologias">Tecnologias</a> •
-        <a href="#certificado">Certificado</a> •
-        <a href="#autor">Autor</a>
+        <a href="#certificado">Certificado</a>
     </p>
 </main>
 
@@ -20,7 +19,7 @@
     <p style="text-align: justify;">Os estudos <b>deste repositório</b> foram feitos de acordo com o curso <a href="https://cursos.alura.com.br/course/css-dispondo-elementos-flexbox-grid">CSS: dispondo elementos com Flexbox e Grid</a> com <b>auxílio</b> do instrutor <b>Matheus Alberto</b>.</p>
     <p style="text-align: justify;">É um site de uma loja que contém músicas, vídeos, pinturas e roupas.</p>
     <p style="text-align: justify;">Com isso, quero enfatizar que o <b>conteúdo este repositório foi um estudo</b>! Não o criei sozinho, mas todo o conhecimento fornecido vou absorvido.</p>
-    <p style="text-align: justify;">Para ver o site que viu no gif, clique <a href="https://alurarzc.vercel.app/">aqui</a>.</p>
+    <p style="text-align: justify;">Para ver o site que viu no gif, clique <a href="https://alurarzc.ebarbozadev.vercel.app//">aqui</a>.</p>
 </section>
 
 <section id="tabela-de-conteudo">
@@ -58,12 +57,6 @@
 
 <section id="certificado">
     <h2 style="font-size: 1.25rem;">Certificado</h2>
-    <p style="text-align: justify;">Veja o certificado que obtive no curso! Ou veja online <a href="https://cursos.alura.com.br/certificate/ebarbozadev/css-dispondo-elementos-flexbox-grid">aqui</a>.</p>
+    <p style="text-align: justify;">Veja o certificado que obtive no curso! Ou veja online <a href="https://cursos.alura.com.br/certificate/f9f057e8-7d80-49b9-bf57-78286dd967d9">aqui</a>.</p>
     <img src="Certificado de Conclusão CSS dispondo elementos com Flexbox e Grid.jpg">
-</section>
-
-<section id="autor">
-    <h2 style="font-size: 1.25rem;">Autor</h2>
-    <img src="foto.jpg" width="170">
-    <p style="text-align: justify;"><i>Emanuel Marcos (E.Barboza)<i></p>
 </section>
