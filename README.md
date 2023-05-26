@@ -49,9 +49,9 @@
 <section id="tecnologias">
     <h2 style="font-size: 1.25rem;">Tecnologias</h2>
     <ul>
-        <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">HTML</a>;</li>
-        <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS</a>;</li>
-        <li><a href="https://www.javascript.com/">JavaScript</a>.</li>
+        <li>HTML5;</li>
+        <li>CSS3;</li>
+        <li>JavaScript.</li>
     </ul>
 </section>
 
