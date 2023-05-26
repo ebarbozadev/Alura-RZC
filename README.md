@@ -58,5 +58,4 @@
 <section id="certificado">
     <h2 style="font-size: 1.25rem;">Certificado</h2>
     <p style="text-align: justify;">Veja o certificado que obtive no curso! Ou veja online <a href="https://cursos.alura.com.br/certificate/f9f057e8-7d80-49b9-bf57-78286dd967d9">aqui</a>.</p>
-    <img src="Certificado de Conclusão CSS dispondo elementos com Flexbox e Grid.jpg">
 </section>
